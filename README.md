@@ -1,4 +1,4 @@
-# node-fourier-motzkin
+# node-fourier-motzkin [![Build Status](https://travis-ci.org/madbence/node-fourier-motzkin.png?branch=master)](https://travis-ci.org/madbence/node-fourier-motzkin)
 
 [Fourier-Motzkin Elimination](http://en.wikipedia.org/wiki/Fourier%E2%80%93Motzkin_elimination) can be used to determine whether an arbitrary system of linear inequalities has solutions or not.
 
