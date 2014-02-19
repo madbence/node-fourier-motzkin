@@ -1,0 +1,23 @@
+{
+  "name": "fourier-motzkin",
+  "version": "0.0.1",
+  "description": "Fourier-Motzkin Elimination",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:madbence/node-fourier-motzkin.git"
+  },
+  "keywords": [
+    "fourier",
+    "motzkin",
+    "matrix"
+  ],
+  "author": "Bence Dányi <madbence@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madbence/node-fourier-motzkin/issues"
+  }
+}
